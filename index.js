@@ -16,37 +16,37 @@ const questions = [
         type: "input",
         name: "title",
         message: "What is the name of your project",
-        default: ""
+        
     },
     {
         type: "input",
         name: "description",
         message: "Please describe your project",
-        default: "",
+        
     },
     {
         type: "input",
         name: "installation",
         message: "Please enter the instructions for installation.",
-        default: "",
+        
     },
     {
         type: "input",
         name: "usage",
         message: "Usage information",
-        default: "",
+        
     },
     {
         type: "input",
         name: "guidelines",
         message: "What are the contribution guidelines?",
-        default: "",
+        
     },
     {
         type: "input",
         name: "instructions",
         message: "What are the testing instructions?",
-        default: "",
+        
     },
     {
         type: "input",
@@ -76,6 +76,7 @@ function init(questions) {
     inquirer
         .prompt(questions)
         .then((answers) => {
+
             writeToFile("./dist/README.md", answers);
         })
         .catch((error) => {
