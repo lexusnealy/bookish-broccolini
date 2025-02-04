@@ -1,4 +1,4 @@
-# Challenge 7;
+# Challenge 7 README generator;
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)][MIT](https://opensource.org/licenses/MIT))
@@ -16,19 +16,19 @@
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Desciption
-Creating a professional README
+This challenge is used to create a professional README
 
 ## Installation Instructions
-Instructions
+created concise code within the index.js file an generateMarkdown.js file
 
 ## Usage Information
-VS code, Terminal
+VS Code, Terminal Github
 
 ## Contribution Guidelines
-Google, Outside assistance from Casey
+Resources provided by the bootcamp, Google, and assistance from my peers
 
 ## Test Instructions
-Log information into VS code and push to Github using the terminal
+log information into the integrated terminal and push to github using the terminal
 
 ## How to Reach Me
 For any questions, please reach me at len@gmail.com. You can also find me on GitHub at https://github.com/lexusnealy 

@@ -1,7 +1,7 @@
-# Challenge 7;
+# Challenge 7 README generator;
 
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)][Apache](https://opensource.org/licenses/Apache-2.0))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)][MIT](https://opensource.org/licenses/MIT))
 
 ## Table of Contents
 - [License](#license)
@@ -13,24 +13,24 @@
 - [How to Reach Me](#how-to-reach-me)
 
 ## License
-[Apache](https://opensource.org/licenses/Apache-2.0)
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Desciption
-Created a professional README
+This challenge is used to create a professional README
 
 ## Installation Instructions
-instructions
+created concise code within the index.js file an generateMarkdown.js file
 
 ## Usage Information
-usage
+VS Code, Terminal Github
 
 ## Contribution Guidelines
-guidelines
+Resources provided by the bootcamp, Google, and assistance from my peers
 
 ## Test Instructions
-testing
+log information into the integrated terminal and push to github using the terminal
 
 ## How to Reach Me
-For any questions, please reach me at lexus.elisha1@gmail.com. You can also find me on GitHub at https://github.com/lexusnealy 
+For any questions, please reach me at len@gmail.com. You can also find me on GitHub at https://github.com/lexusnealy 
 
-  
+    
