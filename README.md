@@ -1,7 +1,7 @@
 # Challenge 7;
 
 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)][GNU](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html))
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)][Apache](https://opensource.org/licenses/Apache-2.0))
 
 ## Table of Contents
 - [License](#license)
@@ -13,10 +13,10 @@
 - [How to Reach Me](#how-to-reach-me)
 
 ## License
-[GNU](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[Apache](https://opensource.org/licenses/Apache-2.0)
 
 ## Desciption
-description
+Created a professional README
 
 ## Installation Instructions
 instructions
@@ -28,7 +28,7 @@ usage
 guidelines
 
 ## Test Instructions
-test
+testing
 
 ## How to Reach Me
 For any questions, please reach me at lexus.elisha1@gmail.com. You can also find me on GitHub at https://github.com/lexusnealy 
